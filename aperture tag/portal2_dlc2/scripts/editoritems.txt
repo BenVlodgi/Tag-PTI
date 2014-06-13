@@ -1025,12 +1025,12 @@
 					"ModelName"			"light_strip02.3ds"
 					"TextureName"		"fizzler.png"
 				}
-				"Palette"
-				{
-					"Tooltip"	"WARM LIGHT STRIP"
-					"Image"		"palette/light_panel_warm2.png"
-					"Position"	"3 7 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"	"WARM LIGHT STRIP"
+				//	"Image"		"palette/light_panel_warm2.png"
+				//	"Position"	"3 7 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceOther"
@@ -1071,12 +1071,12 @@
 					"ModelName"	"drawbridge.3ds"
 					"TextureName"	"arm_4panel.png"
 				}
-				"Palette"
-				{
-					"Tooltip"	"DRAW BRIDGE"
-					"Image"		"palette/drawbridge.png"
-					"Position"	"2 1 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"	"DRAW BRIDGE"
+				//	"Image"		"palette/drawbridge.png"
+				//	"Position"	"2 1 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceOther"
@@ -1217,12 +1217,12 @@
 					"ModelName"		"combine_ball_launcher.3ds"
 					"TextureName"		"laser_models.png"
 				}
-				"Palette"
-				{
-					"Tooltip"	"PELLET EMITTER"
-					"Image"		"palette/pellet_emitter2.png"
-					"Position"	"0 6 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"	"PELLET EMITTER"
+				//	"Image"		"palette/pellet_emitter2.png"
+				//	"Position"	"0 6 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceOther"
@@ -1360,12 +1360,12 @@
 					"ModelName"		"combine_ball_catcher.3ds"
 					"TextureName"	"laser_models.png"
 				}
-				"Palette"
-				{
-					"Tooltip"	"PELLET CATCHER"
-					"Image"		"palette/pellet_catcher2.png"
-					"Position"	"1 6 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"	"PELLET CATCHER"
+				//	"Image"		"palette/pellet_catcher2.png"
+				//	"Position"	"1 6 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceOther"
