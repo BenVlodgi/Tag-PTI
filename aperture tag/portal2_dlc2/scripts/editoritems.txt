@@ -1663,7 +1663,7 @@
 				{
 					"Tooltip"	"CRUSHER"
 					"Image"		"palette/crusher2.png"
-					"Position"	"2 5 0"
+					"Position"	"2 2 0"
 				}
 				"Sounds"
 				{
@@ -1911,7 +1911,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_pedestal_button"
 					"Image"			"palette/pedestal_button.png"
-					"Position"		"0 0 0"
+					"Position"		"0 1 0"
 				}
 				"Sounds"
 				{
@@ -2110,7 +2110,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_portal_button"
 					"Image"			"palette/portal_button.png"
-					"Position"		"1 0 0"
+					"Position"		"1 1 0"
 				}
 				"Sounds"
 				{
@@ -2335,7 +2335,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_weighted_cube"
 					"Image"		"palette/cube.png"
-					"Position"	"2 0 0"
+					"Position"	"2 1 0"
 				}
 				"Sounds"
 				{
@@ -2642,7 +2642,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_tractor_beam"
 					"Image"			"palette/tbeam.png"
-					"Position"		"0 1 0"
+					"Position"		"0 2 0"
 				}
 				"Sounds"
 				{
@@ -2823,7 +2823,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_faith_plate"
 					"Image"		"palette/faithplate.png"
-					"Position"	"1 1 0"
+					"Position"	"1 2 0"
 				}
 				"Sounds"
 				{
@@ -3004,7 +3004,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_light_bridge"
 					"Image"			"palette/hard_light_emitter.png"
-					"Position"		"1 2 0"
+					"Position"		"1 3 0"
 				}
 				"Sounds"
 				{
@@ -3164,7 +3164,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_fizzler"
 					"Image"			"palette/fizzler.png"
-					"Position"		"0 2 0"
+					"Position"		"0 3 0"
 				}
 				"Sounds"
 				{
@@ -3359,7 +3359,7 @@
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_glass"
 					"Image"			"palette/glass.png"
-					"Position"		"3 3 0"
+					"Position"		"3 4 0"
 				}
 			}
 			"SubType"
@@ -3508,7 +3508,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_piston_platform"
 					"Image"		"palette/arm_paneltop.png"
-					"Position"	"2 2 0"
+					"Position"	"2 3 0"
 				}
 				"Sounds"
 				{
@@ -3704,7 +3704,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_track_platform"
 					"Image"		"palette/arm_motionplatform.png"
-					"Position"	"3 2 0"
+					"Position"	"3 3 0"
 				}
 				"Sounds"
 				{
@@ -3861,7 +3861,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_laser_emitter"
 					"Image"		"palette/laser_emitter.png"
-					"Position"	"0 3 0"
+					"Position"	"0 4 0"
 				}
 				"Sounds"
 				{
@@ -4228,7 +4228,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_laser_catcher"
 					"Image"		"palette/laser_catcher.png"
-					"Position"	"1 3 0"
+					"Position"	"1 4 0"
 				}
 				"Sounds"
 				{
@@ -4568,7 +4568,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_laser_relay"
 					"Image"		"palette/laser_receptacle.png"
-					"Position"	"2 3 0"
+					"Position"	"2 4 0"
 				}
 				"Sounds"
 				{
@@ -4966,7 +4966,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_clear_panel"
 					"Image"		"palette/airlock.png"
-					"Position"	"0 4 0"
+					"Position"	"0 5 0"
 				}
 				"Sounds"
 				{
@@ -5201,7 +5201,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_angled_panel"
 					"Image"		"palette/panel_flap.png"
-					"Position"	"1 4 0"
+					"Position"	"1 5 0"
 				}
 				"Sounds"
 				{
@@ -5363,7 +5363,7 @@
 			}
 		}
 	}
-   	"Item"
+  "Item"
 	{
 		"Type"		"ITEM_PANEL_FLIP"
 		"ItemClass"	"ItemPanelFlip"
@@ -5381,7 +5381,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_flip_panel"
 					"Image"		"palette/panel_flip.png"
-					"Position"	"2 4 0"
+					"Position"	"2 5 0"
 				}
 				"Sounds"
 				{
@@ -5559,7 +5559,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_stairs"
 					"Image"		"palette/stairs.png"
-					"Position"	"3 1 0"
+					"Position"	"3 2 0"
 				}
 				"Sounds"
 				{
@@ -5984,7 +5984,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_turret"
 					"Image"		"palette/turret.png"
-					"Position"	"1 5 0"
+					"Position"	"1 6 0"
 				}
 				"Sounds"
 				{
@@ -6079,7 +6079,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_goo"
 					"Image"		"palette/goo.png"
-					"Position"	"0 5 0"
+					"Position"	"0 6 0"
 				}
 				"Sounds"
 				{
@@ -6244,7 +6244,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_paint_water"
 					"Image"		"palette/paintsplat_water.png"
-					"Position"	"3 0 0"
+					"Position"	"3 1 0"
 				}
 				"Sounds"
 				{
@@ -7061,7 +7061,7 @@
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_observation_room"
 					"Image"		"palette/observation_room.png"
-					"Position"	"3 4 0"
+					"Position"	"3 5 0"
 				}
 				"Sounds"
 				{
@@ -7669,6 +7669,151 @@
 			}
 
 			"Offset"		"64 64 64"
+		}
+	}
+
+  
+	"Item"
+	{
+		"Type"		"ITEM_TAG_FIZZLER_GREEN"
+		"Editor"
+		{
+			"SubType"
+			{
+				"Name"		"PORTAL2_PuzzleEditor_Item_green_fizzler"
+				"Model"
+				{
+					"ModelName"		"torus.3ds"
+					"TextureName"		"laser_models.png"
+				}
+				"Palette"
+				{
+					"Tooltip"	"Green Fizzler"
+					"Image"		"palette/green_fizzler.png"
+					"Position"	"0 0 0"
+				}
+				"Sounds"
+				{
+					"SOUND_CREATED"					"P2Editor.PlaceOther"
+					"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+					"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+					"SOUND_DELETED"					"P2Editor.RemoveOther"
+				}
+			}
+			"MovementHandle"		"HANDLE_NONE"
+		}
+		"Properties"
+		{
+			"ConnectionCount"
+			{
+				"DefaultValue"		"0"
+				"Index"		"1"
+			}
+			"StartEnabled"
+			{
+				"DefaultValue"		"1"
+				"Index"		"2"
+			}
+		}
+		"Exporting"
+		{
+			"Instances"
+			{
+				"0"
+				{
+					"Name"				"instances/p2editor_tag/gfizzler_all_sp.vmf"
+					"EntityCount"		"0"
+					"BrushCount"		"0"
+					"BrushSideCount"	"0"
+				}
+			}
+			"TargetName"		"greenfizzler"
+			"Inputs"
+			{
+				"CONNECTION_STANDARD"
+				{
+					"Activate"		"instance:counter;Add"
+					"Deactivate"		"instance:counter;Subtract"
+				}
+			}
+			"OccupiedVoxels"
+			{
+				"Voxel"
+				{
+					"Pos"		"0 0 0"
+					"Surface"
+					{
+						"Normal"	"0 0 1"
+					}
+				}
+			}
+			"ConnectionPoints"
+			{
+				// left
+				"Point"
+				{
+					"Dir"				"1 0 0"
+					"Pos"				"-1 3 0"
+					"SignageOffset"		"-2 2 0"
+					"Priority"  "0"
+				}
+				"Point"
+				{
+					"Dir"				"1 0 0"
+					"Pos"				"-1 4 0"
+					"SignageOffset"		"-2 5 0"
+					"Priority"  "0"
+				}
+
+				// right
+				"Point"
+				{
+					"Dir"				"-1 0 0"
+					"Pos"				"8 3 0"
+					"SignageOffset"		"9 2 0"
+					"Priority"  "0"
+				}
+				"Point"
+				{
+					"Dir"				"-1 0 0"
+					"Pos"				"8 4 0"
+					"SignageOffset"		"9 5 0"
+					"Priority"  "0"
+				}
+
+				// up
+				"Point"
+				{
+					"Dir"				"0 1 0"
+					"Pos"				"3 -1 0"
+					"SignageOffset"		"2 -2 0"
+					"Priority"  "0"
+				}
+				"Point"
+				{
+					"Dir"				"0 1 0"
+					"Pos"				"4 -1 0"
+					"SignageOffset"		"5 -2 0"
+					"Priority"  "0"
+				}
+
+				// down
+				"Point"
+				{
+					"Dir"				"0 -1 0"
+					"Pos"				"3 8 0"
+					"SignageOffset"		"2 9 0"
+					"Priority"  "0"
+				}
+				"Point"
+				{
+					"Dir"				"0 -1 0"
+					"Pos"				"4 8 0"
+					"SignageOffset"		"5 9 0"
+					"Priority"  "0"
+				}
+			}
+			"Offset"	"64 64 64"
 		}
 	}
 
