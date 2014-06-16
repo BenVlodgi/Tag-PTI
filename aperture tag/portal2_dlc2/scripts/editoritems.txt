@@ -2128,12 +2128,12 @@
 					"ModelName"		"buttoncube.3ds"
 					"TextureName"	"button_cube.png"
 				}
-				"Palette"
-				{
-					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_cube_button"
-					"Image"			"palette/box_socket.png"
-					"Position"		"2 0 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"		"PORTAL2_PuzzleEditor_Palette_cube_button"
+				//	"Image"			"palette/box_socket.png"
+				//	"Position"		"2 0 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceButton"
@@ -2150,12 +2150,12 @@
 					"ModelName"		"buttonball.3ds"
 					"TextureName"	"button_ball.png"
 				}
-				"Palette"
-				{
-					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_sphere_button"
-					"Image"			"palette/ball_socket.png"
-					"Position"		"3 0 0"
-				}
+				//"Palette"
+				//{
+				//	"Tooltip"		"PORTAL2_PuzzleEditor_Palette_sphere_button"
+				//	"Image"			"palette/ball_socket.png"
+				//	"Position"		"3 0 0"
+				//}
 				"Sounds"
 				{
 					"SOUND_CREATED"					"P2Editor.PlaceButton"
@@ -7813,7 +7813,7 @@
 					"Priority"  "0"
 				}
 			}
-			"Offset"	"64 64 64"
+			"Offset"	"64 0 64"
 		}
 	}
 
