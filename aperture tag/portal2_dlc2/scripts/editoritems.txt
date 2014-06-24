@@ -8187,7 +8187,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_tag/gfizzler_all_sp.vmf"
+					"Name"				"instances/p2editor_tag/gfizzler_off_sp.vmf"
 					"EntityCount"		"0"
 					"BrushCount"		"0"
 					"BrushSideCount"	"0"
