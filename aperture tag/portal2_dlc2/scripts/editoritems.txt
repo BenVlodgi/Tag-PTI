@@ -7715,7 +7715,7 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_all"
 				"Model"
 				{
-					"ModelName"		"glass_handle.3ds"
+					"ModelName"		"frankenturret.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
@@ -7759,7 +7759,7 @@
 					"BrushSideCount"	"0"
 				}
 			}
-			"TargetName"		"greenfizzler"
+			"TargetName"		"fizzler_all"
 			"Inputs"
 			{
 				"CONNECTION_STANDARD"
@@ -7859,7 +7859,7 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_blue"
 				"Model"
 				{
-					"ModelName"		"glass_handle.3ds"
+					"ModelName"		"frankenturret.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
@@ -7903,7 +7903,7 @@
 					"BrushSideCount"	"0"
 				}
 			}
-			"TargetName"		"greenfizzler"
+			"TargetName"		"fizzler_blue"
 			"Inputs"
 			{
 				"CONNECTION_STANDARD"
@@ -8004,7 +8004,7 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_orange"
 				"Model"
 				{
-					"ModelName"		"glass_handle.3ds"
+					"ModelName"		"frankenturret.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
@@ -8048,7 +8048,7 @@
 					"BrushSideCount"	"0"
 				}
 			}
-			"TargetName"		"greenfizzler"
+			"TargetName"		"fizzler_orange"
 			"Inputs"
 			{
 				"CONNECTION_STANDARD"
@@ -8149,7 +8149,7 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_off_all"
 				"Model"
 				{
-					"ModelName"		"glass_handle.3ds"
+					"ModelName"		"frankenturret.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
@@ -8193,7 +8193,7 @@
 					"BrushSideCount"	"0"
 				}
 			}
-			"TargetName"		"greenfizzler"
+			"TargetName"		"fizzler_off"
 			"Inputs"
 			{
 				"CONNECTION_STANDARD"
