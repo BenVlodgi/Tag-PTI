@@ -49,7 +49,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/door.vmf"
+					"Name"				"instances/p2editor_bee/door.vmf"
 					"EntityCount"		"7"
 					"BrushCount"		"5"
 					"BrushSideCount"	"34"
@@ -367,14 +367,14 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_once.vmf"
+					"Name"				"instances/p2editor_bee/trigger_once.vmf"
 					"EntityCount"		"1"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
 				}
 				"1"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_once.vmf"
+					"Name"				"instances/p2editor_bee/trigger_once.vmf"
 					"EntityCount"		"1"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
@@ -382,28 +382,28 @@
 				
 				"2"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_multiple.vmf"
+					"Name"				"instances/p2editor_bee/trigger_multiple.vmf"
 					"EntityCount"		"1"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
 				}
 				"3"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_multiple.vmf"
+					"Name"				"instances/p2editor_bee/trigger_multiple.vmf"
 					"EntityCount"		"1"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
 				}
 				"4"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_autosave.vmf"
+					"Name"				"instances/p2editor_bee/trigger_autosave.vmf"
 					"EntityCount"		"0"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
 				}
 				"5"
 				{
-					"Name"				"instances/bens_extended_editor/trigger_autosave.vmf"
+					"Name"				"instances/p2editor_bee/trigger_autosave.vmf"
 					"EntityCount"		"0"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
@@ -571,32 +571,32 @@
 			{
 				"0"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_and.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_and.vmf"
 					"EntityCount"	"5"
 				}
 				"1"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_and.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_and.vmf"
 					"EntityCount"	"5"
 				}
 				"2"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_or.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_or.vmf"
 					"EntityCount"	"5"
 				}
 				"3"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_or.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_or.vmf"
 					"EntityCount"	"5"
 				}
 				"4"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_nor.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_nor.vmf"
 					"EntityCount"	"5"
 				}
 				"5"
 				{
-					"Name"			"instances/bens_extended_editor/bee_logic_nor.vmf"
+					"Name"			"instances/p2editor_bee/bee_logic_nor.vmf"
 					"EntityCount"	"5"
 				}
 			}
@@ -721,49 +721,49 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_1.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_1.vmf"
 					"EntityCount"		"59"
 					"BrushCount"		"141"
 					"BrushSideCount"	"996"
 				}
 				"1"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_2.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_2.vmf"
 					"EntityCount"		"59"
 					"BrushCount"		"144"
 					"BrushSideCount"	"1012"
 				}
 				"2"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_3.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_3.vmf"
 					"EntityCount"		"60"
 					"BrushCount"		"140"
 					"BrushSideCount"	"948"
 				}
 				"3"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_4.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_4.vmf"
 					"EntityCount"		"58"
 					"BrushCount"		"136"
 					"BrushSideCount"	"920"
 				}
 				"4"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_5.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_5.vmf"
 					"EntityCount"		"48"
 					"BrushCount"		"127"
 					"BrushSideCount"	"870"
 				}
 				"5"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_6.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_6.vmf"
 					"EntityCount"		"64"
 					"BrushCount"		"148"
 					"BrushSideCount"	"1002"
 				}
 				"6"
 				{
-					"Name"				"instances/bens_extended_editor/door_entrance_7.vmf"
+					"Name"				"instances/p2editor_bee/door_entrance_7.vmf"
 					"EntityCount"		"46"
 					"BrushCount"		"124"
 					"BrushSideCount"	"838"
@@ -875,7 +875,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/autoportal_orange.vmf"
+					"Name"				"instances/p2editor_bee/autoportal_orange.vmf"
 					"EntityCount"		"11"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
@@ -1106,7 +1106,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/drawbridge_196_01a.vmf"
+					"Name"				"instances/p2editor_bee/drawbridge_196_01a.vmf"
 					"EntityCount"		"13"
 					"BrushCount"		"7"
 					"BrushSideCount"	"56"
@@ -1252,7 +1252,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/high_energy_pellet_emitter.vmf"
+					"Name"				"instances/p2editor_bee/high_energy_pellet_emitter.vmf"
 					"EntityCount"		"20"
 					"BrushCount"		"20"
 					"BrushSideCount"	"20"
@@ -1382,7 +1382,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/high_energy_pellet_catcher.vmf"
+					"Name"				"instances/p2editor_bee/high_energy_pellet_catcher.vmf"
 					"EntityCount"		"20"
 					"BrushCount"		"20"
 					"BrushSideCount"	"20"
@@ -1544,7 +1544,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/vent_end.vmf"
+					"Name"				"instances/p2editor_bee/vent_end.vmf"
 					"EntityCount"		"30"
 					"BrushCount"		"30"
 					"BrushSideCount"	"30"
@@ -1694,7 +1694,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/bens_extended_editor/crusher2.vmf"
+					"Name"				"instances/p2editor_bee/crusher2.vmf"
 					"EntityCount"		"20"
 					"BrushCount"		"20"
 					"BrushSideCount"	"20"
