@@ -7897,7 +7897,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_tag/gfizzler_all_sp.vmf"
+					"Name"				"instances/p2editor_tag/gfizzler_blue_sp.vmf"
 					"EntityCount"		"0"
 					"BrushCount"		"0"
 					"BrushSideCount"	"0"
@@ -8042,7 +8042,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_tag/gfizzler_all_sp.vmf"
+					"Name"				"instances/p2editor_tag/gfizzler_orange_sp.vmf"
 					"EntityCount"		"0"
 					"BrushCount"		"0"
 					"BrushSideCount"	"0"
@@ -8146,7 +8146,7 @@
 		{
 			"SubType"
 			{
-				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_disable_all"
+				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_off_all"
 				"Model"
 				{
 					"ModelName"		"glass_handle.3ds"
