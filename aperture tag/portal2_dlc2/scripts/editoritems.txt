@@ -786,14 +786,14 @@
 				// NOTE: Elevator instances must go after door instances
 				"9"
 				{
-					"Name"				"instances/bens_extended_editor/elevator_entrance.vmf"
+					"Name"				"instances/p2editor_tag/elevator_entrance.vmf"
 					"EntityCount"		"215"
 					"BrushCount"		"296"
 					"BrushSideCount"	"2468"
 				}
 				"10"
 				{
-					"Name"				"instances/p2editor/elevator_exit.vmf"
+					"Name"				"instances/p2editor_tag/elevator_exit.vmf"
 					"EntityCount"		"222"
 					"BrushCount"		"347"
 					"BrushSideCount"	"2823"
@@ -6366,7 +6366,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor/door_entrance_coop_1.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_coop_1.vmf"
 					"EntityCount"		"63"
 					"BrushCount"		"107"
 					"BrushSideCount"	"695"
@@ -6744,28 +6744,28 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor/door_exit_coop_1.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_coop_1.vmf"
 					"EntityCount"		"76"
 					"BrushCount"		"61"
 					"BrushSideCount"	"388"
 				}
 				"1"
 				{
-					"Name"				"instances/p2editor/door_exit_coop_2.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_coop_2.vmf"
 					"EntityCount"		"73"
 					"BrushCount"		"58"
 					"BrushSideCount"	"370"
 				}
 				"2"
 				{
-					"Name"				"instances/p2editor/door_exit_coop_3.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_coop_3.vmf"
 					"EntityCount"		"81"
 					"BrushCount"		"69"
 					"BrushSideCount"	"436"
 				}
 				"3"
 				{
-					"Name"				"instances/p2editor/door_exit_coop_4.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_coop_4.vmf"
 					"EntityCount"		"76"
 					"BrushCount"		"61"
 					"BrushSideCount"	"388"
