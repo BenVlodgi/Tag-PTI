@@ -721,49 +721,49 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_1.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_1.vmf"
 					"EntityCount"		"59"
 					"BrushCount"		"141"
 					"BrushSideCount"	"996"
 				}
 				"1"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_2.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_2.vmf"
 					"EntityCount"		"59"
 					"BrushCount"		"144"
 					"BrushSideCount"	"1012"
 				}
 				"2"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_3.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_3.vmf"
 					"EntityCount"		"60"
 					"BrushCount"		"140"
 					"BrushSideCount"	"948"
 				}
 				"3"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_4.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_4.vmf"
 					"EntityCount"		"58"
 					"BrushCount"		"136"
 					"BrushSideCount"	"920"
 				}
 				"4"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_5.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_5.vmf"
 					"EntityCount"		"48"
 					"BrushCount"		"127"
 					"BrushSideCount"	"870"
 				}
 				"5"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_6.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_6.vmf"
 					"EntityCount"		"64"
 					"BrushCount"		"148"
 					"BrushSideCount"	"1002"
 				}
 				"6"
 				{
-					"Name"				"instances/p2editor_bee/door_entrance_7.vmf"
+					"Name"				"instances/p2editor_tag/door_entrance_7.vmf"
 					"EntityCount"		"46"
 					"BrushCount"		"124"
 					"BrushSideCount"	"838"
@@ -800,7 +800,7 @@
 				}
 				"11"
 				{
-					"Name"				"instances/p2editor/arrival_departure_transition_ents.vmf"
+					"Name"				"instances/p2editor_tag/arrival_departure_transition_ents.vmf"
 					"EntityCount"		"22"
 					"BrushCount"		"21"
 					"BrushSideCount"	"126"
@@ -6396,7 +6396,7 @@
 				}
 				"4"
 				{
-					"Name"				"instances/p2editor/arrival_departure_transition_ents.vmf"
+					"Name"				"instances/p2editor_tag/arrival_departure_transition_ents.vmf"
 					"EntityCount"		"22"
 					"BrushCount"		"21"
 					"BrushSideCount"	"126"
@@ -6483,28 +6483,28 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor/door_exit_1.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_1.vmf"
 					"EntityCount"		"55"
 					"BrushCount"		"48"
 					"BrushSideCount"	"310"
 				}
 				"1"
 				{
-					"Name"				"instances/p2editor/door_exit_2.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_2.vmf"
 					"EntityCount"		"43"
 					"BrushCount"		"54"
 					"BrushSideCount"	"346"
 				}
 				"2"
 				{
-					"Name"				"instances/p2editor/door_exit_3.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_3.vmf"
 					"EntityCount"		"51"
 					"BrushCount"		"65"
 					"BrushSideCount"	"412"
 				}
 				"3"
 				{
-					"Name"				"instances/p2editor/door_exit_4.vmf"
+					"Name"				"instances/p2editor_tag/door_exit_4.vmf"
 					"EntityCount"		"46"
 					"BrushCount"		"57"
 					"BrushSideCount"	"364"
