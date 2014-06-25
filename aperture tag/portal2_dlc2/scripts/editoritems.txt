@@ -7746,6 +7746,10 @@
 				"DefaultValue"		"1"
 				"Index"		"2"
 			}
+			"CoopInstance"
+			{
+				"DefaultValue"		"okay cool.vmf"
+			}
 		}
 		"Exporting"
 		{
