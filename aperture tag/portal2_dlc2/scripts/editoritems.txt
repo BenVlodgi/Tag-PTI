@@ -7715,13 +7715,13 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_all"
 				"Model"
 				{
-					"ModelName"		"frankenturret.3ds"
+					"ModelName"		"gfizzler_all.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
 				{
 					"Tooltip"	"Fizzler Enable All"
-					"Image"		"palette/green_fizzler.png"
+					"Image"		"palette/gfizzler_all.png"
 					"Position"	"0 0 0"
 				}
 				"Sounds"
@@ -7859,13 +7859,13 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_blue"
 				"Model"
 				{
-					"ModelName"		"frankenturret.3ds"
+					"ModelName"		"gfizzler_blue.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
 				{
 					"Tooltip"	"Fizzler Enable Blue"
-					"Image"		"palette/green_fizzler.png"
+					"Image"		"palette/gfizzler_blue.png"
 					"Position"	"1 0 0"
 				}
 				"Sounds"
@@ -7993,7 +7993,6 @@
 		}
 	}
 	
-	
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_ENABLE_ORANGE"
@@ -8004,13 +8003,13 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_enable_orange"
 				"Model"
 				{
-					"ModelName"		"frankenturret.3ds"
+					"ModelName"		"gfizzler_orange.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
 				{
 					"Tooltip"	"Fizzler Enable Orange"
-					"Image"		"palette/green_fizzler.png"
+					"Image"		"palette/gfizzler_orange.png"
 					"Position"	"2 0 0"
 				}
 				"Sounds"
@@ -8138,7 +8137,6 @@
 		}
 	}
 	
-	
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_DISABLE_ALL"
@@ -8149,13 +8147,13 @@
 				"Name"		"PORTAL2_PuzzleEditor_Item_fizzler_off_all"
 				"Model"
 				{
-					"ModelName"		"frankenturret.3ds"
+					"ModelName"		"gfizzler_off.3ds"
 					"TextureName"		"laser_models.png"
 				}
 				"Palette"
 				{
 					"Tooltip"	"Fizzler Disable All"
-					"Image"		"palette/green_fizzler.png"
+					"Image"		"palette/gfizzler_off.png"
 					"Position"	"3 0 0"
 				}
 				"Sounds"
