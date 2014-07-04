@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6432"
-	"mapversion" "86"
+	"mapversion" "89"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "86"
+	"mapversion" "89"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -89,7 +89,7 @@ entity
 	"classname" "logic_relay"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"targetname" "@close_orange_autoportals"
+	"targetname" "@close_blue_autoportals"
 	connections
 	{
 		"OnTrigger" "closeTrigger0-1"
@@ -257,7 +257,7 @@ entity
 	"HalfHeight" "0"
 	"HalfWidth" "0"
 	"LinkageGroupID" "0"
-	"PortalTwo" "1"
+	"PortalTwo" "0"
 	"targetname" "portal"
 	"origin" "0 0 -64"
 	editor
@@ -419,7 +419,7 @@ entity
 		"OnTrigger" "portalSetActivatedState10.02-1"
 		"OnTrigger" "colorBlueTest0-1"
 		"OnTrigger" "colorOrangeTest0-1"
-		"OnTrigger" "@close_orange_autoportalsTrigger0-1"
+		"OnTrigger" "@close_blue_autoportalsTrigger0-1"
 	}
 	"origin" "24 -16 -56"
 	editor
