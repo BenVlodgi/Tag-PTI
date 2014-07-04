@@ -1,6 +1,6 @@
 "ItemData"
 {
-"Item"
+    "Item"
 	{
 		"Type"		"DOOR"
 		"ItemClass"	"itemlightstrip"
@@ -7890,6 +7890,7 @@
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_ENABLE_ALL"
+		"ItemClass"	"itemlightstrip"
 		"Editor"
 		{
 			"SubType"
@@ -7914,7 +7915,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveOther"
 				}
 			}
-			"MovementHandle"	"HANDLE_4_DIRECTIONS"
+			"MovementHandle"	"HANDLE_8_POSITIONS"
 		}
 		"Properties"
 		{
@@ -7936,9 +7937,9 @@
 				"0"
 				{
 					"Name"				"instances/p2editor_tag/gfizzler_all_sp.vmf"
-					"EntityCount"		"0"
-					"BrushCount"		"0"
-					"BrushSideCount"	"0"
+					"EntityCount"		"12"
+					"BrushCount"		"8"
+					"BrushSideCount"	"48"
 				}
 			}
 			"TargetName"		"fizzler_all"
@@ -7957,7 +7958,19 @@
 					"Pos"		"0 0 0"
 					"Surface"
 					{
-						"Normal"	"0 0 1"
+						"Pos"	"1 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"1 2 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 2 0"
 					}
 				}
 			}
@@ -8034,6 +8047,7 @@
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_ENABLE_BLUE"
+		"ItemClass"	"itemlightstrip"
 		"Editor"
 		{
 			"SubType"
@@ -8058,7 +8072,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveOther"
 				}
 			}
-			"MovementHandle"	"HANDLE_4_DIRECTIONS"
+			"MovementHandle"	"HANDLE_8_POSITIONS"
 		}
 		"Properties"
 		{
@@ -8080,9 +8094,9 @@
 				"0"
 				{
 					"Name"				"instances/p2editor_tag/gfizzler_blue_sp.vmf"
-					"EntityCount"		"0"
-					"BrushCount"		"0"
-					"BrushSideCount"	"0"
+					"EntityCount"		"12"
+					"BrushCount"		"8"
+					"BrushSideCount"	"48"
 				}
 			}
 			"TargetName"		"fizzler_blue"
@@ -8101,7 +8115,19 @@
 					"Pos"		"0 0 0"
 					"Surface"
 					{
-						"Normal"	"0 0 1"
+						"Pos"	"1 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"1 2 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 2 0"
 					}
 				}
 			}
@@ -8178,6 +8204,7 @@
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_ENABLE_ORANGE"
+		"ItemClass"	"itemlightstrip"
 		"Editor"
 		{
 			"SubType"
@@ -8202,7 +8229,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveOther"
 				}
 			}
-			"MovementHandle"	"HANDLE_4_DIRECTIONS"
+			"MovementHandle"	"HANDLE_8_POSITIONS"
 		}
 		"Properties"
 		{
@@ -8224,9 +8251,9 @@
 				"0"
 				{
 					"Name"				"instances/p2editor_tag/gfizzler_orange_sp.vmf"
-					"EntityCount"		"0"
-					"BrushCount"		"0"
-					"BrushSideCount"	"0"
+					"EntityCount"		"12"
+					"BrushCount"		"8"
+					"BrushSideCount"	"48"
 				}
 			}
 			"TargetName"		"fizzler_orange"
@@ -8245,7 +8272,19 @@
 					"Pos"		"0 0 0"
 					"Surface"
 					{
-						"Normal"	"0 0 1"
+						"Pos"	"1 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"1 2 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 2 0"
 					}
 				}
 			}
@@ -8322,6 +8361,7 @@
 	"Item"
 	{
 		"Type"		"ITEM_TAG_FIZZLER_DISABLE_ALL"
+		"ItemClass"	"itemlightstrip"
 		"Editor"
 		{
 			"SubType"
@@ -8346,7 +8386,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveOther"
 				}
 			}
-			"MovementHandle"	"HANDLE_4_DIRECTIONS"
+			"MovementHandle"	"HANDLE_8_POSITIONS"
 		}
 		"Properties"
 		{
@@ -8368,9 +8408,9 @@
 				"0"
 				{
 					"Name"				"instances/p2editor_tag/gfizzler_off_sp.vmf"
-					"EntityCount"		"0"
-					"BrushCount"		"0"
-					"BrushSideCount"	"0"
+					"EntityCount"		"12"
+					"BrushCount"		"8"
+					"BrushSideCount"	"48"
 				}
 			}
 			"TargetName"		"fizzler_off"
@@ -8389,7 +8429,19 @@
 					"Pos"		"0 0 0"
 					"Surface"
 					{
-						"Normal"	"0 0 1"
+						"Pos"	"1 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"1 2 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 1 0"
+					}
+					"Surface"
+					{
+						"Pos"	"2 2 0"
 					}
 				}
 			}
