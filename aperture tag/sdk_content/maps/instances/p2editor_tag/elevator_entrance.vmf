@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6432"
-	"mapversion" "948"
+	"mapversion" "949"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,19 +32,95 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "948"
+	"mapversion" "949"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxblobcount" "250"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_black"
+	solid
+	{
+		"id" "133169"
+		side
+		{
+			"id" "26160"
+			"plane" "(-768 368 272) (-768 384 272) (-384 384 272)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26159"
+			"plane" "(-768 384 256) (-768 368 256) (-384 368 256)"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26158"
+			"plane" "(-768 368 256) (-768 384 256) (-768 384 272)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26157"
+			"plane" "(-384 384 256) (-384 368 256) (-384 368 272)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26156"
+			"plane" "(-768 384 256) (-384 384 256) (-384 384 272)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26155"
+			"plane" "(-384 368 256) (-768 368 256) (-768 368 272)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 211 132"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	solid
 	{
 		"id" "132163"
@@ -1951,7 +2027,7 @@ world
 		side
 		{
 			"id" "25315"
-			"plane" "(-736 784 272) (-672 784 272) (-672 768 272)"
+			"plane" "(-768 768 272) (-768 784 272) (-384 784 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -1962,7 +2038,7 @@ world
 		side
 		{
 			"id" "25316"
-			"plane" "(-736 768 256) (-672 768 256) (-672 784 256)"
+			"plane" "(-768 784 256) (-768 768 256) (-384 768 256)"
 			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
@@ -1973,7 +2049,7 @@ world
 		side
 		{
 			"id" "25317"
-			"plane" "(-736 784 272) (-736 768 272) (-736 768 256)"
+			"plane" "(-768 768 256) (-768 784 256) (-768 784 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1984,7 +2060,7 @@ world
 		side
 		{
 			"id" "25318"
-			"plane" "(-672 784 256) (-672 768 256) (-672 768 272)"
+			"plane" "(-384 784 256) (-384 768 256) (-384 768 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1995,7 +2071,7 @@ world
 		side
 		{
 			"id" "25319"
-			"plane" "(-672 784 272) (-736 784 272) (-736 784 256)"
+			"plane" "(-768 784 256) (-384 784 256) (-384 784 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2006,7 +2082,7 @@ world
 		side
 		{
 			"id" "25320"
-			"plane" "(-672 768 256) (-736 768 256) (-736 768 272)"
+			"plane" "(-384 768 256) (-768 768 256) (-768 768 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6584,7 +6660,7 @@ world
 		}
 		editor
 		{
-			"color" "179 108 0"
+			"color" "0 152 189"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -13419,8 +13495,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-386.751 585.931 104.804]"
-		"look" "[-434.978 625.259 94.2783]"
+		"position" "[-458.389 30.1885 26.7413]"
+		"look" "[-429.555 86.3026 28.5032]"
 	}
 	camera
 	{
