@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "5685"
-	"mapversion" "128"
+	"editorbuild" "6432"
+	"mapversion" "129"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "128"
+	"mapversion" "129"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1479,115 +1479,13 @@ entity
 	"angles" "90 -0 0"
 	"file" "instances/trigger_gun_on/fizzler_gun_off_all.vmf"
 	"fixup_style" "0"
-	"origin" "0 0 -136"
+	"origin" "0 0 -104"
 	editor
 	{
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "8486"
-	"classname" "trigger_portal_cleanser"
-	"origin" "64 2 -103.5"
-	"spawnflags" "9"
-	"StartDisabled" "0"
-	"targetname" "AutoInstance1-AutoInstance1-@exit_elevator_cleanser"
-	"UseScanline" "1"
-	"Visible" "1"
-	connections
-	{
-		"OnUser1" "AutoInstance1-AutoInstance1-fizzler_modelsDisable0-1"
-		"OnUser1" "!selfDisable0-1"
-		"OnUser2" "!selfEnable0-1"
-		"OnUser2" "AutoInstance1-AutoInstance1-fizzler_modelsEnable0-1"
-	}
-	solid
-	{
-		"id" "8487"
-		side
-		{
-			"id" "2370"
-			"plane" "(0 -62 -103) (0 -62 -104) (0 66 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 3.9961] 0.25"
-			"vaxis" "[0 0 -1 32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2369"
-			"plane" "(128 66 -103) (128 66 -104) (128 -62 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 3.9961] 0.25"
-			"vaxis" "[0 0 -1 32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2368"
-			"plane" "(0 66 -103) (0 66 -104) (128 66 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 0 1 -32] 0.25"
-			"vaxis" "[1 0 0 63.2422] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2367"
-			"plane" "(128 -62 -103) (128 -62 -104) (0 -62 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 0 1 -32] 0.25"
-			"vaxis" "[1 0 0 63.2422] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2366"
-			"plane" "(0 -62 -103) (0 66 -103) (128 66 -103)"
-			"material" "EFFECTS/FIZZLER"
-			"uaxis" "[0 -1 0 -512] 0.125"
-			"vaxis" "[1 0 0 0] 0.125"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2365"
-			"plane" "(0 66 -104) (0 -62 -104) (128 -62 -104)"
-			"material" "EFFECTS/FIZZLER"
-			"uaxis" "[0 1 0 512] 0.125"
-			"vaxis" "[1 0 0 0] 0.125"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"comments" "DO NOT REMOVE the OnUser1 outputs on this trigger, they are required for a special case choreo scene in the pit_flings map!"
-		"logicalpos" "[1000 -6268]"
 	}
 }
 entity
@@ -3597,54 +3495,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "6433"
-	"classname" "prop_dynamic"
-	"angles" "-90 0 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"skin" "0"
-	"solid" "6"
-	"targetname" "AutoInstance1-AutoInstance1-fizzler_models"
-	"origin" "64 -64 -104"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "6437"
-	"classname" "prop_dynamic"
-	"angles" "90 180 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"skin" "0"
-	"solid" "6"
-	"targetname" "AutoInstance1-AutoInstance1-fizzler_models"
-	"origin" "64 64 -104"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
 	}
 }
 entity

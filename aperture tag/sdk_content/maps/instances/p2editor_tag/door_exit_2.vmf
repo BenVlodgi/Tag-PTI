@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "5685"
-	"mapversion" "123"
+	"editorbuild" "6432"
+	"mapversion" "124"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "123"
+	"mapversion" "124"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1403,7 +1403,7 @@ entity
 	"angles" "90 -0 0"
 	"file" "instances/trigger_gun_on/fizzler_gun_off_all.vmf"
 	"fixup_style" "0"
-	"origin" "0 0 -136"
+	"origin" "0 0 -104"
 	editor
 	{
 		"color" "220 30 220"
@@ -3484,156 +3484,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 6000]"
-	}
-}
-entity
-{
-	"id" "6430"
-	"classname" "trigger_portal_cleanser"
-	"origin" "64 0 -103.5"
-	"spawnflags" "9"
-	"StartDisabled" "0"
-	"targetname" "AutoInstance1-AutoInstance1-@exit_elevator_cleanser"
-	"UseScanline" "1"
-	"Visible" "1"
-	connections
-	{
-		"OnUser1" "AutoInstance1-AutoInstance1-fizzler_modelsDisable0-1"
-		"OnUser1" "!selfDisable0-1"
-		"OnUser2" "!selfEnable0-1"
-		"OnUser2" "AutoInstance1-AutoInstance1-fizzler_modelsEnable0-1"
-	}
-	solid
-	{
-		"id" "6431"
-		side
-		{
-			"id" "1896"
-			"plane" "(0 -64 -103) (0 -64 -104) (0 64 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 3.9961] 0.25"
-			"vaxis" "[0 0 -1 32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1895"
-			"plane" "(128 64 -103) (128 64 -104) (128 -64 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 3.9961] 0.25"
-			"vaxis" "[0 0 -1 32] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1894"
-			"plane" "(0 64 -103) (0 64 -104) (128 64 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 0 1 -32] 0.25"
-			"vaxis" "[1 0 0 63.2422] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1893"
-			"plane" "(128 -64 -103) (128 -64 -104) (0 -64 -104)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 0 1 -32] 0.25"
-			"vaxis" "[1 0 0 63.2422] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1892"
-			"plane" "(0 -64 -103) (0 64 -103) (128 64 -103)"
-			"material" "EFFECTS/FIZZLER"
-			"uaxis" "[0 -1 0 -512] 0.125"
-			"vaxis" "[1 0 0 0] 0.125"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1891"
-			"plane" "(0 64 -104) (0 -64 -104) (128 -64 -104)"
-			"material" "EFFECTS/FIZZLER"
-			"uaxis" "[0 1 0 512] 0.125"
-			"vaxis" "[1 0 0 0] 0.125"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"comments" "DO NOT REMOVE the OnUser1 outputs on this trigger, they are required for a special case choreo scene in the pit_flings map!"
-		"logicalpos" "[1000 -6268]"
-	}
-}
-entity
-{
-	"id" "6433"
-	"classname" "prop_dynamic"
-	"angles" "-90 0 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"skin" "0"
-	"solid" "6"
-	"targetname" "AutoInstance1-AutoInstance1-fizzler_models"
-	"origin" "64 -64 -104"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "6437"
-	"classname" "prop_dynamic"
-	"angles" "90 180 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"skin" "0"
-	"solid" "6"
-	"targetname" "AutoInstance1-AutoInstance1-fizzler_models"
-	"origin" "64 64 -104"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
 	}
 }
 entity
