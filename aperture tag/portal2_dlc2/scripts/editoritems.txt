@@ -3540,7 +3540,7 @@
 				"Palette"
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_glass"
-					"Image"			"palette/glass.png"
+					"Image"			"palette/glass_grating.png"
 					"Position"		"3 4 0"
 				}
 			}
