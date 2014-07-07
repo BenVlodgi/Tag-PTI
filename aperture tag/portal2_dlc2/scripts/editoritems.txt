@@ -2291,7 +2291,7 @@
 				"Palette"
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_portal_button"
-					"Image"			"palette/portal_button.png"
+					"Image"			"palette/portal_buttons.png"
 					"Position"		"1 1 0"
 				}
 				"Sounds"
@@ -2516,7 +2516,7 @@
 				"Palette"
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_weighted_cube"
-					"Image"		"palette/cube.png"
+					"Image"		"palette/cubes.png"
 					"Position"	"2 1 0"
 				}
 				"Sounds"
@@ -3345,7 +3345,7 @@
 				"Palette"
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_fizzler"
-					"Image"			"palette/fizzler.png"
+					"Image"			"palette/hazards.png"
 					"Position"		"0 3 0"
 				}
 				"Sounds"
@@ -6425,7 +6425,7 @@
 				"Palette"
 				{
 					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_paint_water"
-					"Image"		"palette/paintsplat_water.png"
+					"Image"		"palette/paints.png"
 					"Position"	"3 1 0"
 				}
 				"Sounds"
