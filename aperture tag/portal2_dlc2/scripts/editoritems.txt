@@ -16,7 +16,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"DOOR"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_door"
 					"Image"		"palette/door.png"
 					"Position"	"2 6 0"
 				}
@@ -299,7 +299,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"TRIGGER BLOCKS"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_trigger_blocks"
 					//"Image"			"trigger_once.png"
 					"Image"			"palette/trigger_outputs.png"
 					"Position"		"0 7 0"
@@ -505,7 +505,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"LOGIC GATES"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_logic_gates"
 					"Image"			"palette/logic.png"
 					"Position"		"1 7 0"
 				}
@@ -846,7 +846,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"AUTO PORTAL"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_auto_portal_orange"
 					"Image"			"palette/fixed_portal_door_orange.png"
 					"Position"		"2 7 0"
 				}
@@ -1027,7 +1027,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"AUTO PORTAL BLUE"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_auto_portal_blue"
 					"Image"			"palette/fixed_portal_door_blue.png"
 					"Position"		"3 7 0"
 				}
@@ -1209,7 +1209,7 @@
 				}
 				//"Palette"
 				//{
-				//	"Tooltip"	"WARM LIGHT STRIP"
+				//	"Tooltip"	"PORTAL2_PuzzleEditor_Palette_warm_light"
 				//	"Image"		"palette/light_panel_warm2.png"
 				//	"Position"	"3 7 0"
 				//}
@@ -1255,7 +1255,7 @@
 				}
 				//"Palette"
 				//{
-				//	"Tooltip"	"DRAW BRIDGE"
+				//	"Tooltip"	"PORTAL2_PuzzleEditor_Palette_draw_bridge"
 				//	"Image"		"palette/drawbridge.png"
 				//	"Position"	"2 1 0"
 				//}
@@ -1401,7 +1401,7 @@
 				}
 				//"Palette"
 				//{
-				//	"Tooltip"	"PELLET EMITTER"
+				//	"Tooltip"	"PORTAL2_PuzzleEditor_Palette_hep_emitter"
 				//	"Image"		"palette/pellet_emitter2.png"
 				//	"Position"	"0 6 0"
 				//}
@@ -1544,7 +1544,7 @@
 				}
 				//"Palette"
 				//{
-				//	"Tooltip"	"PELLET CATCHER"
+				//	"Tooltip"	"PORTAL2_PuzzleEditor_Palette_crusher"
 				//	"Image"		"palette/pellet_catcher2.png"
 				//	"Position"	"1 6 0"
 				//}
@@ -1693,7 +1693,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"PNEUMATIC DIVERSITY VENT"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_pneumatic_diversity_vent"
 					"Image"			"palette/pnuematic_diversity_vent.png"
 					"Position"		"3 5 0"
 				}
@@ -1843,7 +1843,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"CRUSHER"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_crusher"
 					"Image"		"palette/crusher2.png"
 					"Position"	"2 2 0"
 				}
@@ -2290,7 +2290,8 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_portal_button"
+					//"Tooltip"		"PORTAL2_PuzzleEditor_Palette_portal_button"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_floor_buttons"
 					"Image"			"palette/portal_buttons.png"
 					"Position"		"1 1 0"
 				}
@@ -2515,7 +2516,8 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_weighted_cube"
+					//"Tooltip"	"PORTAL2_PuzzleEditor_Palette_weighted_cube"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_weighted_objects"
 					"Image"		"palette/cubes.png"
 					"Position"	"2 1 0"
 				}
@@ -3344,7 +3346,8 @@
 				}
 				"Palette"
 				{
-					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_fizzler"
+					//"Tooltip"		"PORTAL2_PuzzleEditor_Palette_fizzler"
+					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_fields"
 					"Image"			"palette/hazards.png"
 					"Position"		"0 3 0"
 				}
@@ -6424,7 +6427,8 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_paint_water"
+					//"Tooltip"	"PORTAL2_PuzzleEditor_Palette_paint_water"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_paints"
 					"Image"		"palette/paints.png"
 					"Position"	"3 1 0"
 				}
@@ -7903,7 +7907,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"Fizzler Enable All"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_gfizzler_all"
 					"Image"		"palette/gfizzler_all.png"
 					"Position"	"0 0 0"
 				}
@@ -8060,7 +8064,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"Fizzler Enable Blue"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_gfizzler_blue"
 					"Image"		"palette/gfizzler_blue.png"
 					"Position"	"1 0 0"
 				}
@@ -8217,7 +8221,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"Fizzler Enable Orange"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_gfizzler_orange"
 					"Image"		"palette/gfizzler_orange.png"
 					"Position"	"2 0 0"
 				}
@@ -8374,7 +8378,7 @@
 				}
 				"Palette"
 				{
-					"Tooltip"	"Fizzler Disable All"
+					"Tooltip"	"PORTAL2_PuzzleEditor_Palette_gfizzler_off"
 					"Image"		"palette/gfizzler_off.png"
 					"Position"	"3 0 0"
 				}
