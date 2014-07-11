@@ -875,7 +875,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_bee/autoportal_orange_sp.vmf"
+					"Name"				"instances/p2editor_tag/autoportal_orange_sp.vmf"
 					"EntityCount"		"11"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
@@ -1056,7 +1056,7 @@
 			{
 				"0"
 				{
-					"Name"				"instances/p2editor_bee/autoportal_blue_sp.vmf"
+					"Name"				"instances/p2editor_tag/autoportal_blue_sp.vmf"
 					"EntityCount"		"11"
 					"BrushCount"		"1"
 					"BrushSideCount"	"6"
