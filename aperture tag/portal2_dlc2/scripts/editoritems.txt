@@ -847,7 +847,7 @@
 				"Palette"
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_auto_portal_orange"
-					"Image"			"palette/fixed_portal_door_orange.png"
+					"Image"			"palette/autoportal_orange.png"
 					"Position"		"2 7 0"
 				}
 				"Sounds"
@@ -1028,7 +1028,7 @@
 				"Palette"
 				{
 					"Tooltip"		"PORTAL2_PuzzleEditor_Palette_auto_portal_blue"
-					"Image"			"palette/fixed_portal_door_blue.png"
+					"Image"			"palette/autoportal_blue.png"
 					"Position"		"3 7 0"
 				}
 				"Sounds"
