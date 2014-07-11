@@ -858,7 +858,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveButton"
 				}
 			}
-			"MovementHandle"	"HANDLE_NONE"
+			"MovementHandle"	"HANDLE_4_DIRECTIONS"
 			"DesiredFacing"		"DESIRES_UP"
 		}
 		"Properties"
@@ -1039,7 +1039,7 @@
 					"SOUND_DELETED"					"P2Editor.RemoveButton"
 				}
 			}
-			"MovementHandle"	"HANDLE_NONE"
+			"MovementHandle"	"HANDLE_4_DIRECTIONS"
 			"DesiredFacing"		"DESIRES_UP"
 		}
 		"Properties"
