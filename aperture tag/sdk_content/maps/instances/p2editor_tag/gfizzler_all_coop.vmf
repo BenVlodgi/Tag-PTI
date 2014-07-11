@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6432"
-	"mapversion" "77"
+	"mapversion" "79"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "77"
+	"mapversion" "79"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -730,7 +730,7 @@ entity
 	connections
 	{
 		"OnStartTouchBluePlayer" "@BlueIsEnabledSetValue00-1"
-		"OnEndTouchBluePlayer" "@OrangeIsEnabledSetValue00-1"
+		"OnStartTouchBluePlayer" "@OrangeIsEnabledSetValue00-1"
 	}
 	solid
 	{

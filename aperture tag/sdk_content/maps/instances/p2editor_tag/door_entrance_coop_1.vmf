@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6432"
-	"mapversion" "559"
+	"mapversion" "563"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "559"
+	"mapversion" "563"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4116,7 +4116,7 @@ world
 		side
 		{
 			"id" "3877"
-			"plane" "(-64 64 -320) (-64 128 -320) (-48 128 -320)"
+			"plane" "(-32 64 -320) (-32 128 -320) (-16 128 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4127,7 +4127,7 @@ world
 		side
 		{
 			"id" "3876"
-			"plane" "(-48 64 -320) (-48 128 -320) (-48 128 -416)"
+			"plane" "(-16 64 -320) (-16 128 -320) (-16 128 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4138,7 +4138,7 @@ world
 		side
 		{
 			"id" "3875"
-			"plane" "(-64 64 -416) (-64 128 -416) (-64 128 -320)"
+			"plane" "(-32 64 -416) (-32 128 -416) (-32 128 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4149,7 +4149,7 @@ world
 		side
 		{
 			"id" "3874"
-			"plane" "(-48 128 -416) (-48 128 -320) (-64 128 -320)"
+			"plane" "(-16 128 -416) (-16 128 -320) (-32 128 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4160,7 +4160,7 @@ world
 		side
 		{
 			"id" "3873"
-			"plane" "(-64 128 -416) (-64 64 -416) (-48 64 -416)"
+			"plane" "(-32 128 -416) (-32 64 -416) (-16 64 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4171,7 +4171,7 @@ world
 		side
 		{
 			"id" "3872"
-			"plane" "(-64 64 -416) (-64 64 -320) (-48 64 -320)"
+			"plane" "(-32 64 -416) (-32 64 -320) (-16 64 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4194,7 +4194,7 @@ world
 		side
 		{
 			"id" "3889"
-			"plane" "(-96 64 -304) (-96 128 -304) (-64 128 -304)"
+			"plane" "(-96 64 -304) (-96 128 -304) (-32 128 -304)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4205,7 +4205,7 @@ world
 		side
 		{
 			"id" "3888"
-			"plane" "(-64 64 -304) (-64 128 -304) (-64 128 -320)"
+			"plane" "(-32 64 -304) (-32 128 -304) (-32 128 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4227,7 +4227,7 @@ world
 		side
 		{
 			"id" "3886"
-			"plane" "(-64 128 -320) (-64 128 -304) (-96 128 -304)"
+			"plane" "(-32 128 -320) (-32 128 -304) (-96 128 -304)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4238,7 +4238,7 @@ world
 		side
 		{
 			"id" "3885"
-			"plane" "(-96 128 -320) (-96 64 -320) (-64 64 -320)"
+			"plane" "(-96 128 -320) (-96 64 -320) (-32 64 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4249,7 +4249,7 @@ world
 		side
 		{
 			"id" "3884"
-			"plane" "(-96 64 -320) (-96 64 -304) (-64 64 -304)"
+			"plane" "(-96 64 -320) (-96 64 -304) (-32 64 -304)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4272,7 +4272,7 @@ world
 		side
 		{
 			"id" "3901"
-			"plane" "(-96 64 -416) (-96 128 -416) (-64 128 -416)"
+			"plane" "(-96 64 -416) (-96 128 -416) (-32 128 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4283,7 +4283,7 @@ world
 		side
 		{
 			"id" "3900"
-			"plane" "(-64 64 -416) (-64 128 -416) (-64 128 -432)"
+			"plane" "(-32 64 -416) (-32 128 -416) (-32 128 -432)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4305,7 +4305,7 @@ world
 		side
 		{
 			"id" "3898"
-			"plane" "(-64 128 -432) (-64 128 -416) (-96 128 -416)"
+			"plane" "(-32 128 -432) (-32 128 -416) (-96 128 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4316,7 +4316,7 @@ world
 		side
 		{
 			"id" "3897"
-			"plane" "(-96 128 -432) (-96 64 -432) (-64 64 -432)"
+			"plane" "(-96 128 -432) (-96 64 -432) (-32 64 -432)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4327,7 +4327,7 @@ world
 		side
 		{
 			"id" "3896"
-			"plane" "(-96 64 -432) (-96 64 -416) (-64 64 -416)"
+			"plane" "(-96 64 -432) (-96 64 -416) (-32 64 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4350,7 +4350,7 @@ world
 		side
 		{
 			"id" "3913"
-			"plane" "(-96 48 -320) (-96 64 -320) (-64 64 -320)"
+			"plane" "(-96 48 -320) (-96 64 -320) (-32 64 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4361,7 +4361,7 @@ world
 		side
 		{
 			"id" "3912"
-			"plane" "(-64 48 -320) (-64 64 -320) (-64 64 -416)"
+			"plane" "(-32 48 -320) (-32 64 -320) (-32 64 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4383,7 +4383,7 @@ world
 		side
 		{
 			"id" "3910"
-			"plane" "(-64 64 -416) (-64 64 -320) (-96 64 -320)"
+			"plane" "(-32 64 -416) (-32 64 -320) (-96 64 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4394,7 +4394,7 @@ world
 		side
 		{
 			"id" "3909"
-			"plane" "(-96 64 -416) (-96 48 -416) (-64 48 -416)"
+			"plane" "(-96 64 -416) (-96 48 -416) (-32 48 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4405,7 +4405,7 @@ world
 		side
 		{
 			"id" "3908"
-			"plane" "(-96 48 -416) (-96 48 -320) (-64 48 -320)"
+			"plane" "(-96 48 -416) (-96 48 -320) (-32 48 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4428,7 +4428,7 @@ world
 		side
 		{
 			"id" "3925"
-			"plane" "(-96 128 -320) (-96 144 -320) (-64 144 -320)"
+			"plane" "(-96 128 -320) (-96 144 -320) (-32 144 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4439,7 +4439,7 @@ world
 		side
 		{
 			"id" "3924"
-			"plane" "(-64 128 -320) (-64 144 -320) (-64 144 -416)"
+			"plane" "(-32 128 -320) (-32 144 -320) (-32 144 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4461,7 +4461,7 @@ world
 		side
 		{
 			"id" "3922"
-			"plane" "(-64 144 -416) (-64 144 -320) (-96 144 -320)"
+			"plane" "(-32 144 -416) (-32 144 -320) (-96 144 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -4472,7 +4472,7 @@ world
 		side
 		{
 			"id" "3921"
-			"plane" "(-96 144 -416) (-96 128 -416) (-64 128 -416)"
+			"plane" "(-96 144 -416) (-96 128 -416) (-32 128 -416)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4483,7 +4483,7 @@ world
 		side
 		{
 			"id" "3920"
-			"plane" "(-96 128 -416) (-96 128 -320) (-64 128 -320)"
+			"plane" "(-96 128 -416) (-96 128 -320) (-32 128 -320)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -5816,6 +5816,141 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "19363"
+	"classname" "prop_dynamic_override"
+	"angles" "-90 180 0"
+	"AnimateEveryFrame" "0"
+	"DisableBoneFollowers" "0"
+	"disableflashlight" "0"
+	"disablereceiveshadows" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"health" "0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"MinAnimTime" "5"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/tag/v_portalgun.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"SuppressAnimSounds" "0"
+	"targetname" "turret_v"
+	"origin" "-48 80 -376"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "19378"
+	"classname" "prop_dynamic_override"
+	"angles" "-90 180 0"
+	"AnimateEveryFrame" "0"
+	"DisableBoneFollowers" "0"
+	"disableflashlight" "0"
+	"disablereceiveshadows" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"health" "0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"MinAnimTime" "5"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/tag/w_portalgun.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"SuppressAnimSounds" "0"
+	"targetname" "turret_w"
+	"origin" "-48 112 -376"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "19218"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-66.3704 149.98 -63"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 entity
@@ -12071,11 +12206,13 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "@script_mp_coop_lobbyRunScriptCodeCheckForNewTaunts()2-1"
+		"OnMapSpawn" "@script_mp_coop_lobbyRunScriptCodeportalgunswitch_wCheckForNewTaunts()2-1"
 		"OnMapSpawn" "script_return_hubRunScriptCodeMapPostLoaded()21"
 		"OnMapSpawn" "script_return_hubRunScriptCodeSetMapBranchAndLevel()0.251"
 		"OnMapSpawn" "@Coop_Spawn_BlueSetAsActiveSpawn0-1"
 		"OnMapSpawn" "@Coop_Spawn_RedSetAsActiveSpawn0-1"
+		"OnMapSpawn" "turret_vRunScriptFileportalgunswitch_v.nut0.1-1"
+		"OnMapSpawn" "turret_wRunScriptFileportalgunswitch_w.nut0.1-1"
 	}
 	"origin" "32 16 -304"
 	editor
