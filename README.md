@@ -13,6 +13,6 @@ Content within created by August Loolam, Benjamin Thomas Blodgett, Carl Kenner a
 
 Project  | Purpose | Link To Repository
 ------------- | ------------- | -------------
-VBSP-Precompiler | Runs precompiler before actual vbsp.exe | https://github.com/benvlodgi/VBSP-Precompiler
-Tag-Intermediate-Compiler | Makes TAG specific changes to the vmf | https://github.com/benvlodgi/Tag-Intermediate-Compiler
-VMFParser | Library for easy VMF manipulation in .net | https://github.com/benvlodgi/VMFParser
+VBSP-Precompiler | Runs precompiler before actual vbsp.exe | [BenVlodgi/VBSP-Precompiler] (https://github.com/benvlodgi/VBSP-Precompiler)
+Tag-Intermediate-Compiler | Makes TAG specific changes to the vmf | [BenVlodgi/Tag-Intermediate-Compiler] (https://github.com/benvlodgi/Tag-Intermediate-Compiler)
+VMFParser | Library for easy VMF manipulation in .net | [BenVlodgi/VMFParser] (https://github.com/benvlodgi/VMFParser)
